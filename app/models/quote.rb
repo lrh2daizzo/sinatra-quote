@@ -1,2 +1,2 @@
-class Quote < AvtiveRecord::Base
+class Quote < ActiveRecord::Base
 end
